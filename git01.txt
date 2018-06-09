@@ -8,3 +8,7 @@ hello  world!!!
 在childv2分支中添加一句话
 在childv2分支中添加一句话
 在childv2分支中添加一句话
+
+
+以master 身份添加一行内容
+BBBBBBBBBBBBBBBBBBBBBBBB
