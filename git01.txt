@@ -27,3 +27,11 @@ dahdadaddddddd  childv2
 
 
 在远程仓库更新一次  1234445555
+
+
+master  master  stash  master
+
+
+哈哈哈哈哈哈
+
+
