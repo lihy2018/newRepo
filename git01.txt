@@ -35,6 +35,7 @@ master  master  stash  master
 
 哈哈哈哈哈哈
 
+<<<<<<< Updated upstream
 
 
 by  users  zhangsan  childv2  update  content!!!
@@ -47,3 +48,6 @@ Hi, 您好啊
 Hi ， 您好啊
 
 
+=======
+lihy lihy lihy lihy
+>>>>>>> Stashed changes
